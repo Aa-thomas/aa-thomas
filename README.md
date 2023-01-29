@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning TypeScript, Wordpress and Jest
 
-👨‍💻 All of my projects are available at https://aaronthomas.dev/
+👨‍💻 All of my favourite projects are available at https://aaronthomas.dev/
 
 💬 Ask me about React, NodeJS and Open-Source projects
 
