@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Aaron! 
 ### I'm a web developer passionate about building accessible, functional and user-friendly websites.
 
-🔭 I’m currently working on an algorithm visualizer and a Rest-API
+🔭 I’m currently working on an [Algorithm Visualizer](https://github.com/aa-thomas/algo-visualizer) and a [Rest-API](https://github.com/aa-thomas/rest-api-sql) for a school database.
 
 🌱 I’m currently learning TypeScript, Wordpress and Jest
 
