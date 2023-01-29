@@ -1,4 +1,5 @@
-Hey there! 👋 I'm Aaron! I'm a web developer passionate about building accessible, functional and user-friendly websites.
+# Hey there! 👋 I'm Aaron! 
+### I'm a web developer passionate about building accessible, functional and user-friendly websites.
 
 🔭 I’m currently working on an algorithm visualizer and a Rest-API
 
