@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Aaron! 
 ### I'm a web developer passionate about building accessible, functional and user-friendly websites.
 
-🔭 I’m currently working on a custom blog [tomasai-blogsite](https://github.com/aa-thomas/tomasai-blogsite) and some [#BuildInPublic Projects](https://github.com/aa-thomas/build-in-public).
+🔭 I’m currently working on a [custom blog](https://github.com/aa-thomas/tomasai-blogsite) and some [#BuildInPublic Projects](https://github.com/aa-thomas/build-in-public).
 
 🌱 I’m currently learning TypeScript, Wordpress and Jest
 
