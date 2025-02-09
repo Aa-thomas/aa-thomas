@@ -9,6 +9,6 @@
 
 ### 📫 Connect with Me
 - **GitHub Discussions** – Feel free to open a discussion or issue on any of my repositories.
-- **[LinkedIn](https://www.linkedin.com/in/aaronthomas-design/)**
-- **[Twitter](https://x.com/the_aaronthomas)**
-- **Email** – [aarthomas01@gmail.com]
+- **My [LinkedIn](https://www.linkedin.com/in/aaronthomas-design/)**
+- **My [Twitter](https://x.com/the_aaronthomas)**
+- **My Email** – aarthomas01@gmail.com
