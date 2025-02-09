@@ -1,12 +1,14 @@
 # Hey there! 👋 I'm Aaron! 
-### I'm a web developer passionate about building accessible, functional and user-friendly websites.
 
-🔭 I’m currently working on a [custom blog](https://github.com/aa-thomas/tomasai-blogsite) and some [#BuildInPublic Projects](https://github.com/aa-thomas/build-in-public).
+### I'm a future-focused developer passionate about building intelligent AI systems that amplify human potential
 
-🌱 I’m currently learning TypeScript, Wordpress and Jest
+### 🌱 My Goals
+- **Scale AI Adoption** – Encourage the ethical and effective use of AI to solve complex problems in diverse industries.
+- **Community Building** – Foster inclusive tech communities where knowledge-sharing and collaboration thrive.
+- **Continuous Learning** – Stay curious, experimenting with new frameworks and emerging technologies to drive innovation.
 
-👨‍💻 All of my favourite projects are available at https://aaronthomas.dev/
-
-💬 Ask me about React, NodeJS and Open-Source projects
-
-📫 How to reach me aarthomas01@gmail.com
+### 📫 Connect with Me
+- **GitHub Discussions** – Feel free to open a discussion or issue on any of my repositories.
+- **[LinkedIn](https://www.linkedin.com/in/aaronthomas-design/)**
+- **[Twitter](https://x.com/the_aaronthomas)**
+- **Email** – [aarthomas01@gmail.com]
