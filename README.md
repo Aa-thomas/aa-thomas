@@ -2,6 +2,8 @@
 
 I’m building a **production-style trading system in Rust**, focused on **execution correctness, determinism, and operational safety**.
 
+https://github.com/aa-thomas/trading-systems
+
 This profile documents an **active engineering journey**, not a finished product.
 
 ---
