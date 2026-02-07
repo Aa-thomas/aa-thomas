@@ -85,14 +85,13 @@ Signal's skills invoke tools through Conduit. Echo logs decisions through Signal
 
 ---
 
-All four projects are in active development. I build in public and I'm always up for a conversation about AI tooling.
+All four projects are in active development. I build in public and I'm always up for a conversation about AI tooling. My email is: aarthomas01@gmail.com
 
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaronthomas-dev)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/the_aaronthomas)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/the_aaronthomas)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://aaronthomas.dev)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-CC785C?style=for-the-badge&logo=vercel&logoColor=white)](https://aaronthomas.dev)
 </p>
