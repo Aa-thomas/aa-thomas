@@ -1,92 +1,98 @@
-# Hey there! 👋 I'm Aaron! 
+# I build the tools that make AI agents work.
 
-I’m building a **production-style trading system in Rust**, focused on **execution correctness, determinism, and operational safety**.
+Full-stack developer · TypeScript · Rust · Python · React  
+Building open-source AI developer tools — CLIs, dashboards, and agent extensions.
 
-https://github.com/aa-thomas/trading-systems
-
-This profile documents an **active engineering journey**, not a finished product.
-
----
-
-## What I’m Working On
-
-I’m designing and implementing a trading system incrementally, treating it as a real production system from day one:
-
-- deterministic simulations and replay  
-- explicit order lifecycle state machines  
-- execution pipelines with reconciliation  
-- hard risk limits and fail-closed behavior  
-- operator-focused observability and controls  
-
-Each stage is built to surface **real failure modes** early — before real capital or live risk is involved.
+> I spent 7 years in operations designing SOPs and training systems before moving into software.  
+> When AI coding agents shipped, I noticed they fail the same way new hires do — they skip docs, ignore process, and don't know when to ask for help. So I started building the missing layer.
 
 ---
 
-## Why This Project Exists
+## What I'm shipping
 
-Most trading system failures are not strategy failures — they are systems failures:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- state desynchronization  
-- missing invariants  
-- unsafe retries  
-- unclear ownership of truth  
-- poor operational visibility  
+### [Conduit](https://github.com/aaron/conduit)
+**MCP protocol toolkit** · `TypeScript`
 
-This project exists to learn how to **design systems that survive failure**, not just perform well under ideal conditions.
+Every tool call in Claude Code, Codex, and Cursor runs over MCP. Conduit lets you discover any MCP server's tools, invoke them from the command line, and generate fully-typed TypeScript clients from their schemas.
+
+Postman for the agent era.
+
+</td>
+<td width="50%" valign="top">
+
+### [Pulse](https://github.com/aaron/pulse)
+**AI usage dashboard** · `Rust` `Tauri` `React`
+
+Tracks rate limits, session windows, and costs across Claude, Codex, Cursor, and Gemini in one system tray app. Rust backend with async polling and platform-native keychains. React frontend. ~5MB binary on macOS, Windows, and Linux.
+
+Cross-platform rebuild of [CodexBar](https://github.com/steipete/CodexBar) (5K+ ⭐).
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Echo](https://github.com/aaron/echo)
+**Second-opinion skill for AI agents** · `Python`
+
+Your AI coding agent is stuck. Echo bundles the current context and asks a different model — GPT, Gemini, or Claude — for a fresh perspective. Built as a native [Agent Skill](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills), works across every major coding agent.
+
+</td>
+<td width="50%" valign="top">
+
+### [Signal](https://github.com/aaron/signal)
+**Process guardrails for AI agents** · `Python` `Shell`
+
+Five skills that teach AI agents to follow professional standards: generate SOPs, enforce commit conventions, onboard before coding, create training docs, and log every architectural decision.
+
+The ops background meets the AI stack.
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>How they connect →</b></summary>
+<br>
+
+```
+Conduit  (protocol)    →  how agents discover and call tools
+Pulse    (monitoring)  →  how you track what they consume
+Echo     (intelligence)→  how they recover when stuck
+Signal   (knowledge)   →  how they follow your standards
+```
+
+Signal's skills invoke tools through Conduit. Echo logs decisions through Signal. Pulse monitors the providers Echo calls. One system, not four repos.
+
+</details>
 
 ---
 
-## Design Principles
+### Tech
 
-- **Determinism by default**  
-  Same inputs + config ⇒ same outcomes.
-
-- **Explicit state machines**  
-  Illegal states should be unrepresentable or rejected.
-
-- **Fail closed under uncertainty**  
-  If state, data, or truth is unclear → stop.
-
-- **Replayable by construction**  
-  Every decision should be explainable after the fact.
-
-- **No hidden panics in core logic**  
-  Errors are part of the system’s contract.
-
-- **Documentation is part of the system**  
-  Invariants, runbooks, and design tradeoffs matter.
+| | |
+|:--|:--|
+| **Languages** | TypeScript · Rust · Python · JavaScript · Shell |
+| **Frontend** | React · Tailwind CSS · HTML/CSS |
+| **Backend** | Node.js · Express · tokio (Rust async) |
+| **AI / Agent** | MCP protocol · Agent Skills · Claude Code · Codex · Vercel AI SDK |
+| **Desktop** | Tauri v2 · System tray APIs · Platform keychains |
+| **Tools** | Git · GitHub Actions · Docker · Linux · VS Code |
 
 ---
 
-## Current Focus Areas
+All four projects are in active development. I build in public and I'm always up for a conversation about AI tooling.
 
-- Rust for systems programming  
-- Event-driven architectures  
-- Order and execution modeling  
-- Risk rules as code  
-- Deterministic replay & observability  
+<p align="center">
 
-As milestones are completed, they’ll be tagged, documented, and linked here.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaronthomas-dev)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/the_aaronthomas)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=black)](https://aaronthomas.dev)
 
----
-
-## Status
-
-This is an **active, evolving build**.
-
-The goal is not to rush to “live trading,” but to build a system that would be **trustworthy once it gets there**.
-
----
-
-## Notes
-
-This work is intentionally **systems-first**, not strategy-first.
-
-Execution correctness, safety, and operability come before optimization or alpha.
-
-
-### 📫 Connect with Me
-- **GitHub Discussions** – Feel free to open a discussion or issue on any of my repositories.
-- **My [LinkedIn](https://www.linkedin.com/in/aaronthomas-dev/)**
-- **My [Twitter](https://x.com/the_aaronthomas)**
-- **My Email** – aarthomas01@gmail.com
+</p>
