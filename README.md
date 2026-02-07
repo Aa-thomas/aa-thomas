@@ -93,6 +93,6 @@ All four projects are in active development. I build in public and I'm always up
 &nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/the_aaronthomas)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=black)](https://aaronthomas.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://aaronthomas.dev)
 
 </p>
