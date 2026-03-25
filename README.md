@@ -5,7 +5,7 @@
 **Founder, [Actualized Web Solutions](https://github.com/actualized-web-solutions)**
 
 I build AI agent systems that augment human expertise — not replace it.<br>
-Multi-agent orchestration · workflow automation · knowledge systems · MCP protocol
+Multi-Agent Orchestration · Workflow Automation · Knowledge Systems · MCP Protocol
 
 </div>
 
@@ -16,7 +16,7 @@ Multi-agent orchestration · workflow automation · knowledge systems · MCP pro
 **🔷 Agentic AI Layer for a Trading System** — *Client project*<br>
 7 specialized LLM agents with weighted consensus for S&P 500 options trading. Event-driven workflows, MCP as the typed membrane between AI and deterministic execution, full fault tolerance. The AI layer proposes; the trading engine decides.
 
-**🔷 Agent Runtime from First Principles** — *OpenClaw/OpenFang Hybrid*<br>
+**🔷 Agent Runtime from First Principles** — *Agent OS Runtime*<br>
 Building my own agent runtime through a 12-week structured curriculum. Explicit action loops, policy governance, layered memory, capability systems, replay/observability. Not a framework wrapper — a first-principles build.
 
 **🔷 WMS SOP Assistant** — *RAG knowledge system*<br>
@@ -43,7 +43,7 @@ AI assistant for warehouse operators running Tecsys WMS. Indexes 200+ pages of t
 
 **Open for client engagements** — AI agent systems, workflow augmentation, and technical assessments.
 
-📧 aarthomas01@gmail.com
+📧 aaronthomas@actualizedweb.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaronthomas-dev)
 &nbsp;
