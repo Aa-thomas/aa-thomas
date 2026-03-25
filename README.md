@@ -7,7 +7,7 @@
 We design and build AI agent systems that augment human expertise —<br>
 not replace it. Every system we ship makes people faster, sharper, and more capable.
 
-[Get in touch →](mailto:aarthomas01@gmail.com)
+[Get in touch →](mailto:aaronthomas@actualizedweb.com)
 
 </div>
 
