@@ -1,56 +1,25 @@
-<div align="center">
+# Hi, I'm Aaron
 
-# Aaron Thomas
+I'm a self-taught developer in the Toronto area, working toward a career in applied AI engineering. One question drives most of what I build: **when an AI agent fails, can you explain why, and can you prove your fix made things better?**
 
-**Founder, [Actualized Web Solutions](https://github.com/actualized-web-solutions)**
+## What I'm building
 
-I build AI agent systems that augment human expertise — not replace it.<br>
-Multi-Agent Orchestration · Workflow Automation · Knowledge Systems · MCP Protocol
+**Aaros** is three connected projects:
 
-</div>
+- **Evolve** is an agent reliability project. I use it to investigate how agents fail, compare one change against another, and test whether an improvement holds up.
+- **Evoke** is a learning workspace that links lessons, code, experiments, notes, and evidence of progress. It's at the specs and wireframes stage right now, and you can follow the planning in the issue tracker.
+- **Emerge** is a school and course collection I'm developing. It teaches AI engineering and product building through practical work.
 
----
+## How I work
 
-### Currently building
+I build with AI coding agents, so most of my effort goes into keeping the work checkable. I write specs and acceptance criteria before handing anything off, mark what's ready and what's still a placeholder, and review what comes back.
 
-**🔷 Agentic AI Layer for a Trading System** — *Client project*<br>
-7 specialized LLM agents with weighted consensus for S&P 500 options trading. Event-driven workflows, MCP as the typed membrane between AI and deterministic execution, full fault tolerance. The AI layer proposes; the trading engine decides.
+## Tools
 
-**🔷 Agent Runtime from First Principles** — *Agent OS Runtime*<br>
-Building my own agent runtime through a 12-week structured curriculum. Explicit action loops, policy governance, layered memory, capability systems, replay/observability. Not a framework wrapper — a first-principles build.
+Mostly TypeScript, Python, and Rust. Also React, Next.js, PostgreSQL, Supabase, and MCP.
 
-**🔷 WMS SOP Assistant** — *RAG knowledge system*<br>
-AI assistant for warehouse operators running Tecsys WMS. Indexes 200+ pages of training docs, returns answers with per-claim citations. Built for the warehouse floor — fast, clear, and source-traceable.
+## Say hi
 
----
+My writing is on my website, [aaronthomas.dev](https://aaronthomas.dev). If you work on agent reliability, evals, or teaching this stuff, I'd like to compare notes.
 
-### Background
-
-7 years in warehouse operations designing SOPs and training systems before moving into software. When AI agents shipped, the failure patterns looked familiar — skipping docs, ignoring process, not knowing when to escalate. So I started building the missing layer.
-
----
-
-### Tech
-
-**Languages:** TypeScript · C# · Rust · Python<br>
-**AI / Agent:** MCP Protocol · Multi-agent orchestration · RAG · Structured LLM output<br>
-**Architecture:** Event-driven · Actor model · State machines · Workflow engines<br>
-**Stack:** React · Next.js · .NET · Node.js · Supabase · PostgreSQL
-
----
-
-<div align="center">
-
-**Open for client engagements** — AI agent systems, workflow augmentation, and technical assessments.
-
-📧 aaronthomas@actualizedweb.com
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaronthomas-dev)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/the_aaronthomas)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-CC785C?style=for-the-badge&logo=vercel&logoColor=white)](https://aaronthomas.dev)
-&nbsp;
-[![Actualized Web Solutions](https://img.shields.io/badge/Actualized_Web_Solutions-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/actualized-web-solutions)
-
-</div>
+[LinkedIn](https://linkedin.com/in/aaronthomas-dev) · [X](https://x.com/the_aaronthomas) · [Portfolio](https://aaronthomas.dev)
