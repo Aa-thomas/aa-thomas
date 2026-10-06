@@ -1,25 +1,27 @@
-# Hi, I'm Aaron
+# Hi, I’m Aaron
 
-I'm a self-taught developer in the Toronto area, working toward a career in applied AI engineering. One question drives most of what I build: **when an AI agent fails, can you explain why, and can you prove your fix made things better?**
+I’m building ambitious AI systems and discovering new techniques that push the boundaries of how we build and learn.
 
-## What I'm building
+I’m a self-taught developer learning AI engineering from first principles. I use AI to attempt projects beyond my current experience, then work to understand what I’ve built. I want to make that path easier for other people.
 
-**Aaros** is three connected projects:
+## What I’m building
 
-- **Evolve** is an agent reliability project. I use it to investigate how agents fail, compare one change against another, and test whether an improvement holds up.
-- **Evoke** is a learning workspace that links lessons, code, experiments, notes, and evidence of progress. It's at the specs and wireframes stage right now, and you can follow the planning in the issue tracker.
-- **Emerge** is a school and course collection I'm developing. It teaches AI engineering and product building through practical work.
+### [Aaros Evolve](https://aaronthomas.dev/projects/aaros-evolve)
 
-## How I work
+A self-improving reliability system for AI agents. It connects records of agent behavior with experiments that test improvements. I’m building it to turn an agent’s experience into measurable changes in how it works.
 
-I build with AI coding agents, so most of my effort goes into keeping the work checkable. I write specs and acceptance criteria before handing anything off, mark what's ready and what's still a placeholder, and review what comes back.
+### [Aaros Evoke](https://aaronthomas.dev/projects/aaros-evoke)
 
-## Tools
+A learning system designed to help you build complex software without prior programming experience. It teaches through the project itself, bringing explanations, guided implementation, and experiments into the work so you can understand and take ownership of what you build.
 
-Mostly TypeScript, Python, and Rust. Also React, Next.js, PostgreSQL, Supabase, and MCP.
+### [Agent Skills](https://github.com/Aa-thomas/agent-skills)
 
-## Say hi
+Carefully developed engineering workflows for AI coding agents. They capture the judgment behind understanding a problem, making a sound change, and checking the result. The instructions are open to inspection, reuse, and improvement across projects.
 
-My writing is on my website, [aaronthomas.dev](https://aaronthomas.dev). If you work on agent reliability, evals, or teaching this stuff, I'd like to compare notes.
+## What I write about
 
-[LinkedIn](https://linkedin.com/in/aaronthomas-dev) · [X](https://x.com/the_aaronthomas) · [Portfolio](https://aaronthomas.dev)
+I write about how AI expands what we can build, and how we develop the judgment to build it well. My projects give me ideas to test, failures to investigate, and discoveries to share with people attempting something of their own.
+
+I’m equally interested in the person doing the building. How we direct our attention, learn through confusion, and choose work that matters to us. I explore how to pursue ambitious goals without letting fear or the need to prove ourselves choose the direction.
+
+[Read the notebook](https://aaronthomas.dev/writing) · [Explore the projects](https://aaronthomas.dev/projects) · [LinkedIn](https://linkedin.com/in/aaronthomas-dev) · [X](https://x.com/the_aaronthomas)
